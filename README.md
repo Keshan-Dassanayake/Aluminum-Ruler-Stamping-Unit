@@ -10,4 +10,7 @@ The Aluminum Ruler Stamping Unit is an innovative machine developed as part of a
 - <b>Solidworks</b> 
 - <b>Granta EduPack</b>
 
+<h3>Disclaimer</h3>
+
+Due to a transition to a new PC, the original SolidWorks files for this project were lost. However, the final exported versions are available and provide a comprehensive representation of the design and functionality.
 
